@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<FILTERGRAPH>
+  <FILTER uid="2" x="0.3812499999999999778" y="0.062015503875968991387">
+    <PLUGIN name="Midi Input" descriptiveName="" format="Internal" category="I/O devices"
+            manufacturer="ROLI Ltd." version="1.0" file="" uid="cb5fde0b"
+            isInstrument="0" fileTime="0" infoUpdateTime="0" numInputs="0"
+            numOutputs="0" isShell="0"/>
+    <STATE>0.</STATE>
+    <LAYOUT>
+      <INPUTS>
+        <BUS index="0" layout="disabled"/>
+      </INPUTS>
+      <OUTPUTS>
+        <BUS index="0" layout="disabled"/>
+      </OUTPUTS>
+    </LAYOUT>
+  </FILTER>
+  <FILTER uid="3" x="0.4625000000000000222" y="0.90891472868217060288"
+          uiLastX_Generic="20" uiLastY_Generic="468" uiopen_Generic="0">
+    <PLUGIN name="Audio Output" descriptiveName="" format="Internal" category="I/O devices"
+            manufacturer="ROLI Ltd." version="1.0" file="" uid="724248cb"
+            isInstrument="0" fileTime="0" infoUpdateTime="0" numInputs="0"
+            numOutputs="0" isShell="0"/>
+    <STATE>0.</STATE>
+    <LAYOUT>
+      <INPUTS>
+        <BUS index="0" layout="L R"/>
+      </INPUTS>
+      <OUTPUTS>
+        <BUS index="0" layout="disabled"/>
+      </OUTPUTS>
+    </LAYOUT>
+  </FILTER>
+  <FILTER uid="13" x="0.3875000000000000111" y="0.34334763948497853958"
+          uiLastX_Normal="364" uiLastY_Normal="467" uiopen_Normal="0">
+    <PLUGIN name="Key Mapper" format="VST" category="Effect" manufacturer="SongWish Inc."
+            version="V2" file="Key Mapper" uid="4b6d7072" isInstrument="0"
+            fileTime="15c982f03f9" infoUpdateTime="15cc2c5129c" numInputs="2"
+            numOutputs="2" isShell="0"/>
+    <STATE>278.CMlaKA....fQBMDZ....ArTavIG...f.....A...............................................................................................................................................................................1Y0PxDRa....7zTZjQFakAEa0cVZtAxbiEFakMWRj0iHMklauIGHS8FauARLh.xZkkWOhTjHfLFZuIGYOMFcgYWY8HBMh.xXn8lbjMUZ5UVOhLiHf.mbuclbkM2bo8laSQmbo41Y8HRQsARPsARQsAhPsIxK9..</STATE>
+    <LAYOUT>
+      <INPUTS>
+        <BUS index="0" layout="L R"/>
+      </INPUTS>
+      <OUTPUTS>
+        <BUS index="0" layout="L R"/>
+      </OUTPUTS>
+    </LAYOUT>
+  </FILTER>
+  <FILTER uid="24" x="0.4079999999999999738" y="0.53551912568306014872"
+          uiLastX_Normal="412" uiLastY_Normal="43" uiopen_Normal="0">
+    <PLUGIN name="Sampled Instrument" format="VST" category="Synth" manufacturer="SongWish Inc."
+            version="V2" file="Sampled Instrument" uid="5361496e" isInstrument="1"
+            fileTime="15befda31e1" infoUpdateTime="15cc2c5129c" numInputs="2"
+            numOutputs="2" isShell="0"/>
+    <STATE>215.CMlaKA....fQBMDZ....ALUXI4F...f.....A...............................................................................................................................................................................2rWCJ.BHhLmY5YTZrUlSg0VYhnCHhHjbgM2bfzBHBE1byABUx8Vah8lakAxTuw1atLmY5IRCJzG</STATE>
+    <LAYOUT>
+      <INPUTS>
+        <BUS index="0" layout="L R"/>
+      </INPUTS>
+      <OUTPUTS>
+        <BUS index="0" layout="L R"/>
+      </OUTPUTS>
+    </LAYOUT>
+  </FILTER>
+  <FILTER uid="25" x="0.63000000000000000444" y="0.53278688524590167575"
+          uiLastX_Normal="45" uiLastY_Normal="164" uiopen_Normal="0">
+    <PLUGIN name="Sampled Instrument" format="VST" category="Synth" manufacturer="SongWish Inc."
+            version="V2" file="Sampled Instrument" uid="5361496e" isInstrument="1"
+            fileTime="15befda31e1" infoUpdateTime="15cc2c5129c" numInputs="2"
+            numOutputs="2" isShell="0"/>
+    <STATE>209.CMlaKA....fQBMDZ....ALUXI4F...f.....A...............................................................................................................................................................................wrWCJ.BHhLmY5YTZrUlSg0VYhnCHhHjbgM2bfzBHTIWcsAWYzAxTuw1atLmY5IRCJzG</STATE>
+    <LAYOUT>
+      <INPUTS>
+        <BUS index="0" layout="L R"/>
+      </INPUTS>
+      <OUTPUTS>
+        <BUS index="0" layout="L R"/>
+      </OUTPUTS>
+    </LAYOUT>
+  </FILTER>
+  <FILTER uid="26" x="0.41749999999999998224" y="0.18669527896995707916">
+    <PLUGIN name="Recorder" format="VST" category="Effect" manufacturer="SongWish Inc."
+            version="V2" file="Recorder" uid="5265636f" isInstrument="0"
+            fileTime="15c424ab639" infoUpdateTime="15cc2c5129c" numInputs="0"
+            numOutputs="0" isShell="0"/>
+    <STATE>160.CMlaKA....fQBMDZ....AHUYi8F...f.....A.................................................................................................................................................................................</STATE>
+    <LAYOUT>
+      <INPUTS/>
+      <OUTPUTS/>
+    </LAYOUT>
+  </FILTER>
+  <FILTER uid="27" x="0.18800000000000000044" y="0.54371584699453556766"
+          uiLastX_Normal="303" uiLastY_Normal="458" uiopen_Normal="0">
+    <PLUGIN name="Sampled Instrument" format="VST" category="Synth" manufacturer="SongWish Inc."
+            version="V2" file="Sampled Instrument" uid="5361496e" isInstrument="1"
+            fileTime="15befda31e1" infoUpdateTime="15cc2c5129c" numInputs="2"
+            numOutputs="2" isShell="0"/>
+    <STATE>209.CMlaKA....fQBMDZ....ALUXI4F...f.....A...............................................................................................................................................................................wrWCJ.BHhLmY5YTZrUlSg0VYhnCHhHjbgM2bfzBHTUmXgAxT0MGcgklatLmY5IRCJzG</STATE>
+    <LAYOUT>
+      <INPUTS>
+        <BUS index="0" layout="L R"/>
+      </INPUTS>
+      <OUTPUTS>
+        <BUS index="0" layout="L R"/>
+      </OUTPUTS>
+    </LAYOUT>
+  </FILTER>
+  <FILTER uid="29" x="0.44750000000000000888" y="0.74678111587982831665"
+          uiLastX_Normal="135" uiLastY_Normal="239" uiopen_Normal="0">
+    <PLUGIN name="Reverb" format="VST" category="Effect" manufacturer="SongWish Inc."
+            version="V2" file="Reverb" uid="52657662" isInstrument="0" fileTime="15befdc4686"
+            infoUpdateTime="15cc2c5129c" numInputs="2" numOutputs="2" isShell="0"/>
+    <STATE>377.CMlaKA....fQBMDZ....AHUY1IF...f.....A...............................................................................................................................................................................Ya0PxDBz....7HUY1Ulbh4COPEjTA0DHoQVOhH2au01TooWYh.hcgwVck0iHv3RMh7hO7.UPRETSfjFY8HBYg0Fbo41Yh.hcgwVck0iHv3RMh7hO7.UPRETSfjFY8HxckQmHfXWXrUWY8HBLtHSNzbyL1fyLxLCNvHSNzbSN4fiHu3COPEjTA0DHoQVOhPlb4IBH1EFa0UVOh.iKyjCM2LiM3TiMxHiLwTiL2.SN4XiHu3COPEjTA0DHoQVOhbWZjQGZh.hcgwVck0iHwHxK9vyKRUlckImX9..</STATE>
+    <LAYOUT>
+      <INPUTS>
+        <BUS index="0" layout="L R"/>
+      </INPUTS>
+      <OUTPUTS>
+        <BUS index="0" layout="L R"/>
+      </OUTPUTS>
+    </LAYOUT>
+  </FILTER>
+  <CONNECTION srcFilter="2" srcChannel="4096" dstFilter="26" dstChannel="4096"/>
+  <CONNECTION srcFilter="13" srcChannel="4096" dstFilter="24" dstChannel="4096"/>
+  <CONNECTION srcFilter="13" srcChannel="4096" dstFilter="25" dstChannel="4096"/>
+  <CONNECTION srcFilter="13" srcChannel="4096" dstFilter="27" dstChannel="4096"/>
+  <CONNECTION srcFilter="24" srcChannel="0" dstFilter="29" dstChannel="0"/>
+  <CONNECTION srcFilter="24" srcChannel="1" dstFilter="29" dstChannel="1"/>
+  <CONNECTION srcFilter="25" srcChannel="0" dstFilter="29" dstChannel="0"/>
+  <CONNECTION srcFilter="25" srcChannel="1" dstFilter="29" dstChannel="1"/>
+  <CONNECTION srcFilter="26" srcChannel="4096" dstFilter="13" dstChannel="4096"/>
+  <CONNECTION srcFilter="27" srcChannel="0" dstFilter="29" dstChannel="0"/>
+  <CONNECTION srcFilter="27" srcChannel="1" dstFilter="29" dstChannel="1"/>
+  <CONNECTION srcFilter="29" srcChannel="0" dstFilter="3" dstChannel="0"/>
+  <CONNECTION srcFilter="29" srcChannel="1" dstFilter="3" dstChannel="1"/>
+</FILTERGRAPH>

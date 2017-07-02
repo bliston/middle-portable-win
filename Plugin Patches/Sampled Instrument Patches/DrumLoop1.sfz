@@ -1,0 +1,12 @@
+<group>
+ampeg_attack=0.300
+ampeg_vel2attack=-0.300
+ampeg_release=1.5
+fil_type=hpf_1p
+cutoff=12
+
+<region>
+sample=Drum Loops/drumLoop1.wav
+lokey=0
+hikey=127
+pitch_keycenter=c4

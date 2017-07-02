@@ -1,0 +1,706 @@
+<group> //Begin Group 1
+
+ampeg_attack=0.002
+
+
+ampeg_release=0.6
+
+
+ampeg_dynamic=1
+
+
+volume=0
+
+group_label=gr_1
+
+
+<region>
+sample=Middle Piano/_000Player_dyn1_rr1.ogg
+lokey=21
+hikey=22
+pitch_keycenter=21
+lovel=0
+hivel=60
+volume=23
+
+
+<region>
+sample=Middle Piano/_002Player_dyn1_rr1.ogg
+lokey=23
+hikey=26
+pitch_keycenter=25
+lovel=0
+hivel=60
+volume=23
+
+
+<region>
+sample=Middle Piano/_004Player_dyn1_rr1.ogg
+lokey=27
+hikey=30
+pitch_keycenter=29
+lovel=0
+hivel=60
+volume=23
+
+
+<region>
+sample=Middle Piano/_006Player_dyn1_rr1.ogg
+lokey=31
+hikey=34
+pitch_keycenter=33
+lovel=0
+hivel=60
+volume=23
+
+
+<region>
+sample=Middle Piano/_008Player_dyn1_rr1.ogg
+lokey=35
+hikey=38
+pitch_keycenter=37
+lovel=0
+hivel=60
+volume=23
+
+
+<region>
+sample=Middle Piano/_010Player_dyn1_rr1.ogg
+lokey=39
+hikey=42
+pitch_keycenter=41
+lovel=0
+hivel=60
+volume=23
+
+
+<region>
+sample=Middle Piano/_012Player_dyn1_rr1.ogg
+lokey=43
+hikey=46
+pitch_keycenter=45
+lovel=0
+hivel=60
+volume=23
+
+
+<region>
+sample=Middle Piano/_014Player_dyn1_rr1.ogg
+lokey=47
+hikey=50
+pitch_keycenter=49
+lovel=0
+hivel=60
+volume=23
+
+
+<region>
+sample=Middle Piano/_016Player_dyn1_rr1.ogg
+lokey=51
+hikey=54
+pitch_keycenter=53
+lovel=0
+hivel=60
+volume=23
+
+
+<region>
+sample=Middle Piano/_018Player_dyn1_rr1.ogg
+lokey=55
+hikey=58
+pitch_keycenter=57
+lovel=0
+hivel=60
+volume=23
+
+
+<region>
+sample=Middle Piano/_020Player_dyn1_rr1.ogg
+lokey=59
+hikey=62
+pitch_keycenter=61
+lovel=0
+hivel=60
+volume=23
+
+
+<region>
+sample=Middle Piano/_022Player_dyn1_rr1.ogg
+lokey=63
+hikey=66
+pitch_keycenter=65
+lovel=0
+hivel=60
+volume=23
+
+
+<region>
+sample=Middle Piano/_024Player_dyn1_rr1.ogg
+lokey=67
+hikey=70
+pitch_keycenter=69
+lovel=0
+hivel=60
+volume=23
+
+
+<region>
+sample=Middle Piano/_026Player_dyn1_rr1.ogg
+lokey=71
+hikey=74
+pitch_keycenter=73
+lovel=0
+hivel=60
+volume=23
+
+
+<region>
+sample=Middle Piano/_028Player_dyn1_rr1.ogg
+lokey=75
+hikey=78
+pitch_keycenter=77
+lovel=0
+hivel=60
+volume=23
+
+
+<region>
+sample=Middle Piano/_030Player_dyn1_rr1.ogg
+lokey=79
+hikey=82
+pitch_keycenter=81
+lovel=0
+hivel=60
+volume=23
+
+
+<region>
+sample=Middle Piano/_032Player_dyn1_rr1.ogg
+lokey=83
+hikey=86
+pitch_keycenter=85
+lovel=0
+hivel=60
+volume=23
+
+
+<region>
+sample=Middle Piano/_034Player_dyn1_rr1.ogg
+lokey=87
+hikey=90
+pitch_keycenter=89
+lovel=0
+hivel=60
+volume=23
+
+
+<region>
+sample=Middle Piano/_036Player_dyn1_rr1.ogg
+lokey=91
+hikey=94
+pitch_keycenter=93
+lovel=0
+hivel=60
+volume=23
+
+
+<region>
+sample=Middle Piano/_038Player_dyn1_rr1.ogg
+lokey=95
+hikey=98
+pitch_keycenter=97
+lovel=0
+hivel=60
+volume=23
+
+
+<region>
+sample=Middle Piano/_040Player_dyn1_rr1.ogg
+lokey=99
+hikey=102
+pitch_keycenter=101
+lovel=0
+hivel=60
+volume=23
+
+
+<region>
+sample=Middle Piano/_042Player_dyn1_rr1.ogg
+lokey=103
+hikey=106
+pitch_keycenter=105
+lovel=0
+hivel=60
+volume=23
+
+
+<region>
+sample=Middle Piano/_044Player_dyn1_rr1.ogg
+lokey=107
+hikey=108
+pitch_keycenter=108
+lovel=0
+hivel=60
+volume=23
+
+
+<region>
+sample=Middle Piano/_000Player_dyn2_rr1.ogg
+lokey=21
+hikey=22
+pitch_keycenter=21
+lovel=61
+hivel=110
+volume=10
+
+
+<region>
+sample=Middle Piano/_002Player_dyn2_rr1.ogg
+lokey=23
+hikey=26
+pitch_keycenter=25
+lovel=61
+hivel=110
+volume=10
+
+
+<region>
+sample=Middle Piano/_004Player_dyn2_rr1.ogg
+lokey=27
+hikey=30
+pitch_keycenter=29
+lovel=61
+hivel=110
+volume=10
+
+
+<region>
+sample=Middle Piano/_006Player_dyn2_rr1.ogg
+lokey=31
+hikey=34
+pitch_keycenter=33
+lovel=61
+hivel=110
+volume=10
+
+
+<region>
+sample=Middle Piano/_008Player_dyn2_rr1.ogg
+lokey=35
+hikey=38
+pitch_keycenter=37
+lovel=61
+hivel=110
+volume=10
+
+
+<region>
+sample=Middle Piano/_010Player_dyn2_rr1.ogg
+lokey=39
+hikey=42
+pitch_keycenter=41
+lovel=61
+hivel=110
+volume=10
+
+
+<region>
+sample=Middle Piano/_012Player_dyn2_rr1.ogg
+lokey=43
+hikey=46
+pitch_keycenter=45
+lovel=61
+hivel=110
+volume=10
+
+
+<region>
+sample=Middle Piano/_014Player_dyn2_rr1.ogg
+lokey=47
+hikey=50
+pitch_keycenter=49
+lovel=61
+hivel=110
+volume=10
+
+
+<region>
+sample=Middle Piano/_016Player_dyn2_rr1.ogg
+lokey=51
+hikey=54
+pitch_keycenter=53
+lovel=61
+hivel=110
+volume=10
+
+
+<region>
+sample=Middle Piano/_018Player_dyn2_rr1.ogg
+lokey=55
+hikey=58
+pitch_keycenter=57
+lovel=61
+hivel=110
+volume=10
+
+
+<region>
+sample=Middle Piano/_020Player_dyn2_rr1.ogg
+lokey=59
+hikey=62
+pitch_keycenter=61
+lovel=61
+hivel=110
+volume=10
+
+
+<region>
+sample=Middle Piano/_022Player_dyn2_rr1.ogg
+lokey=63
+hikey=66
+pitch_keycenter=65
+lovel=61
+hivel=110
+volume=10
+
+
+<region>
+sample=Middle Piano/_024Player_dyn2_rr1.ogg
+lokey=67
+hikey=70
+pitch_keycenter=69
+lovel=61
+hivel=110
+volume=10
+
+
+<region>
+sample=Middle Piano/_026Player_dyn2_rr1.ogg
+lokey=71
+hikey=74
+pitch_keycenter=73
+lovel=61
+hivel=110
+volume=10
+
+
+<region>
+sample=Middle Piano/_028Player_dyn2_rr1.ogg
+lokey=75
+hikey=78
+pitch_keycenter=77
+lovel=61
+hivel=110
+volume=10
+
+
+<region>
+sample=Middle Piano/_030Player_dyn2_rr1.ogg
+lokey=79
+hikey=82
+pitch_keycenter=81
+lovel=61
+hivel=110
+volume=10
+
+
+<region>
+sample=Middle Piano/_032Player_dyn2_rr1.ogg
+lokey=83
+hikey=86
+pitch_keycenter=85
+lovel=61
+hivel=110
+volume=10
+
+
+<region>
+sample=Middle Piano/_034Player_dyn2_rr1.ogg
+lokey=87
+hikey=90
+pitch_keycenter=89
+lovel=61
+hivel=110
+volume=10
+
+
+<region>
+sample=Middle Piano/_036Player_dyn2_rr1.ogg
+lokey=91
+hikey=94
+pitch_keycenter=93
+lovel=61
+hivel=110
+volume=10
+
+
+<region>
+sample=Middle Piano/_038Player_dyn2_rr1.ogg
+lokey=95
+hikey=98
+pitch_keycenter=97
+lovel=61
+hivel=110
+volume=10
+
+
+<region>
+sample=Middle Piano/_040Player_dyn2_rr1.ogg
+lokey=99
+hikey=102
+pitch_keycenter=101
+lovel=61
+hivel=110
+volume=10
+
+
+<region>
+sample=Middle Piano/_042Player_dyn2_rr1.ogg
+lokey=103
+hikey=106
+pitch_keycenter=105
+lovel=61
+hivel=110
+volume=10
+
+
+<region>
+sample=Middle Piano/_044Player_dyn2_rr1.ogg
+lokey=107
+hikey=108
+pitch_keycenter=108
+lovel=61
+hivel=110
+volume=10
+
+
+<region>
+sample=Middle Piano/_000Player_dyn3_rr1.ogg
+lokey=21
+hikey=22
+pitch_keycenter=21
+lovel=111
+hivel=127
+volume=2
+
+
+<region>
+sample=Middle Piano/_002Player_dyn3_rr1.ogg
+lokey=23
+hikey=26
+pitch_keycenter=25
+lovel=111
+hivel=127
+volume=2
+
+
+<region>
+sample=Middle Piano/_004Player_dyn3_rr1.ogg
+lokey=27
+hikey=30
+pitch_keycenter=29
+lovel=111
+hivel=127
+volume=2
+
+
+<region>
+sample=Middle Piano/_006Player_dyn3_rr1.ogg
+lokey=31
+hikey=34
+pitch_keycenter=33
+lovel=111
+hivel=127
+volume=2
+
+
+<region>
+sample=Middle Piano/_008Player_dyn3_rr1.ogg
+lokey=35
+hikey=38
+pitch_keycenter=37
+lovel=111
+hivel=127
+volume=2
+
+
+<region>
+sample=Middle Piano/_010Player_dyn3_rr1.ogg
+lokey=39
+hikey=42
+pitch_keycenter=41
+lovel=111
+hivel=127
+volume=2
+
+
+<region>
+sample=Middle Piano/_012Player_dyn3_rr1.ogg
+lokey=43
+hikey=46
+pitch_keycenter=45
+lovel=111
+hivel=127
+volume=2
+
+
+<region>
+sample=Middle Piano/_014Player_dyn3_rr1.ogg
+lokey=47
+hikey=50
+pitch_keycenter=49
+lovel=111
+hivel=127
+volume=2
+
+
+<region>
+sample=Middle Piano/_016Player_dyn3_rr1.ogg
+lokey=51
+hikey=54
+pitch_keycenter=53
+lovel=111
+hivel=127
+volume=2
+
+
+<region>
+sample=Middle Piano/_018Player_dyn3_rr1.ogg
+lokey=55
+hikey=58
+pitch_keycenter=57
+lovel=111
+hivel=127
+volume=2
+
+
+<region>
+sample=Middle Piano/_020Player_dyn3_rr1.ogg
+lokey=59
+hikey=62
+pitch_keycenter=61
+lovel=111
+hivel=127
+volume=2
+
+
+<region>
+sample=Middle Piano/_022Player_dyn3_rr1.ogg
+lokey=63
+hikey=66
+pitch_keycenter=65
+lovel=111
+hivel=127
+volume=2
+
+
+<region>
+sample=Middle Piano/_024Player_dyn3_rr1.ogg
+lokey=67
+hikey=70
+pitch_keycenter=69
+lovel=111
+hivel=127
+volume=2
+
+
+<region>
+sample=Middle Piano/_026Player_dyn3_rr1.ogg
+lokey=71
+hikey=74
+pitch_keycenter=73
+lovel=111
+hivel=127
+volume=2
+
+
+<region>
+sample=Middle Piano/_028Player_dyn3_rr1.ogg
+lokey=75
+hikey=78
+pitch_keycenter=77
+lovel=111
+hivel=127
+volume=2
+
+
+<region>
+sample=Middle Piano/_030Player_dyn3_rr1.ogg
+lokey=79
+hikey=82
+pitch_keycenter=81
+lovel=111
+hivel=127
+volume=2
+
+
+<region>
+sample=Middle Piano/_032Player_dyn3_rr1.ogg
+lokey=83
+hikey=86
+pitch_keycenter=85
+lovel=111
+hivel=127
+volume=2
+
+
+<region>
+sample=Middle Piano/_034Player_dyn3_rr1.ogg
+lokey=87
+hikey=90
+pitch_keycenter=89
+lovel=111
+hivel=127
+volume=2
+
+
+<region>
+sample=Middle Piano/_036Player_dyn3_rr1.ogg
+lokey=91
+hikey=94
+pitch_keycenter=93
+lovel=111
+hivel=127
+volume=2
+
+
+<region>
+sample=Middle Piano/_038Player_dyn3_rr1.ogg
+lokey=95
+hikey=98
+pitch_keycenter=97
+lovel=111
+hivel=127
+volume=2
+
+
+<region>
+sample=Middle Piano/_040Player_dyn3_rr1.ogg
+lokey=99
+hikey=102
+pitch_keycenter=101
+lovel=111
+hivel=127
+volume=2
+
+
+<region>
+sample=Middle Piano/_042Player_dyn3_rr1.ogg
+lokey=103
+hikey=106
+pitch_keycenter=105
+lovel=111
+hivel=127
+volume=2
+
+
+<region>
+sample=Middle Piano/_044Player_dyn3_rr1.ogg
+lokey=107
+hikey=108
+pitch_keycenter=108
+lovel=111
+hivel=127
+volume=2
+
+

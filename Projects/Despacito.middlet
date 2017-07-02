@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<FILTERGRAPH>
+  <FILTER uid="2" x="0.3812499999999999778" y="0.062015503875968991387">
+    <PLUGIN name="Midi Input" descriptiveName="" format="Internal" category="I/O devices"
+            manufacturer="ROLI Ltd." version="1.0" file="" uid="cb5fde0b"
+            isInstrument="0" fileTime="0" infoUpdateTime="0" numInputs="0"
+            numOutputs="0" isShell="0"/>
+    <STATE>0.</STATE>
+    <LAYOUT>
+      <INPUTS>
+        <BUS index="0" layout="disabled"/>
+      </INPUTS>
+      <OUTPUTS>
+        <BUS index="0" layout="disabled"/>
+      </OUTPUTS>
+    </LAYOUT>
+  </FILTER>
+  <FILTER uid="3" x="0.4625000000000000222" y="0.90891472868217060288"
+          uiLastX_Generic="20" uiLastY_Generic="468" uiopen_Generic="0">
+    <PLUGIN name="Audio Output" descriptiveName="" format="Internal" category="I/O devices"
+            manufacturer="ROLI Ltd." version="1.0" file="" uid="724248cb"
+            isInstrument="0" fileTime="0" infoUpdateTime="0" numInputs="0"
+            numOutputs="0" isShell="0"/>
+    <STATE>0.</STATE>
+    <LAYOUT>
+      <INPUTS>
+        <BUS index="0" layout="L R"/>
+      </INPUTS>
+      <OUTPUTS>
+        <BUS index="0" layout="disabled"/>
+      </OUTPUTS>
+    </LAYOUT>
+  </FILTER>
+  <FILTER uid="29" x="0.41199999999999997735" y="0.53008595988538687038"
+          uiLastX_Normal="14" uiLastY_Normal="198" uiopen_Normal="0">
+    <PLUGIN name="Sampled Instrument" format="VST" category="Synth" manufacturer="SongWish Inc."
+            version="V2" file="Sampled Instrument" uid="5361496e" isInstrument="1"
+            fileTime="15befda31e1" infoUpdateTime="15cc2c7c20d" numInputs="2"
+            numOutputs="2" isShell="0"/>
+    <STATE>201.CMlaKA....fQBMDZ....ALUXI4F...f.....A...............................................................................................................................................................................orWCJ.BHhLmY5YTZrUlSg0VYhnCHhLzatMVYxQGHHElbv4xblomHMnPe</STATE>
+    <LAYOUT>
+      <INPUTS>
+        <BUS index="0" layout="L R"/>
+      </INPUTS>
+      <OUTPUTS>
+        <BUS index="0" layout="L R"/>
+      </OUTPUTS>
+    </LAYOUT>
+  </FILTER>
+  <FILTER uid="30" x="0.39060205580029366823" y="0.72869955156950672048">
+    <PLUGIN name="Reverb" format="VST" category="Effect" manufacturer="SongWish Inc."
+            version="V2" file="Reverb" uid="52657662" isInstrument="0" fileTime="15befdc4686"
+            infoUpdateTime="15cc2c7c20d" numInputs="2" numOutputs="2" isShell="0"/>
+    <STATE>378.CMlaKA....fQBMDZ....AHUY1IF...f.....A...............................................................................................................................................................................Za0PxDRz....7HUY1Ulbh4COPEjTA0DHoQVOhH2au01TooWYh.hcgwVck0iHv3RMh7hO7.UPRETSfjFY8HBYg0Fbo41Yh.hcgwVck0iHv3RMh7hO7.UPRETSfjFY8HxckQmHfXWXrUWY8HBLtLyLv.CLv.SLyDSLy.iLwfSMvTSNh7hO7.UPRETSfjFY8HBYxkmHfXWXrUWY8HBLtPCLv.CLv.CL0jiMvPiMzPyM2TCMh7hO7.UPRETSfjFY8HxcoQFcnIBH1EFa0UVOhDiHu3COuHUY1Ulbh4C.</STATE>
+    <LAYOUT>
+      <INPUTS>
+        <BUS index="0" layout="L R"/>
+      </INPUTS>
+      <OUTPUTS>
+        <BUS index="0" layout="L R"/>
+      </OUTPUTS>
+    </LAYOUT>
+  </FILTER>
+  <FILTER uid="31" x="0.37800000000000000266" y="0.18852459016393441349">
+    <PLUGIN name="Recorder" format="VST" category="Effect" manufacturer="SongWish Inc."
+            version="V2" file="Recorder" uid="5265636f" isInstrument="0"
+            fileTime="15c424ab639" infoUpdateTime="15cc2c7c20d" numInputs="0"
+            numOutputs="0" isShell="0"/>
+    <STATE>160.CMlaKA....fQBMDZ....AHUYi8F...f.....A.................................................................................................................................................................................</STATE>
+    <LAYOUT>
+      <INPUTS/>
+      <OUTPUTS/>
+    </LAYOUT>
+  </FILTER>
+  <FILTER uid="37" x="0.33200000000000001732" y="0.35792349726775957164"
+          uiLastX_Normal="411" uiLastY_Normal="207" uiopen_Normal="0">
+    <PLUGIN name="Key Mapper" format="VST" category="Effect" manufacturer="SongWish Inc."
+            version="V2" file="Key Mapper" uid="4b6d7072" isInstrument="0"
+            fileTime="15c982f03f9" infoUpdateTime="15cc2c7c20d" numInputs="2"
+            numOutputs="2" isShell="0"/>
+    <STATE>270.CMlaKA....fQBMDZ....ArTavIG...f.....A...............................................................................................................................................................................tY0PxDRY....7zTZjQFakAEa0cVZtAxbiEFakMWRj0iHMklauIGHwHBHqUVd8HhPh.xXn8lbj8zXzElck0iHzHBHig1axQ1TooWY8HxLh.Bbx81YxU1byk1atMEcxklam0iHB0FHGABQfDjHu3C.</STATE>
+    <LAYOUT>
+      <INPUTS>
+        <BUS index="0" layout="L R"/>
+      </INPUTS>
+      <OUTPUTS>
+        <BUS index="0" layout="L R"/>
+      </OUTPUTS>
+    </LAYOUT>
+  </FILTER>
+  <FILTER uid="38" x="0.14999999999999999445" y="0.51912568306010931085"
+          uiLastX_Normal="282" uiLastY_Normal="307" uiopen_Normal="0">
+    <PLUGIN name="midiChordAnalyzer" format="VST" category="Synth" manufacturer="Insert Piz Here"
+            version="V1.0.1" file="C:\Users\blist\Desktop\midiChordAnalyzer.dll"
+            uid="6d437241" isInstrument="1" fileTime="1395a18e2c0" infoUpdateTime="15cc2c7c20d"
+            numInputs="2" numOutputs="2" isShell="0"/>
+    <STATE>221.CMlaKA....fQBMDZ....Az1PxED.A.P.....A...............................................................................................................................................................................8zTZjk1Pn8lbjEjagwVd5UlbVEFa0U1b.Df.rE1bzAkbuclbg0F.ATP......XUYxMWZu4F.ATP.C......</STATE>
+    <LAYOUT>
+      <INPUTS>
+        <BUS index="0" layout="L R"/>
+      </INPUTS>
+      <OUTPUTS>
+        <BUS index="0" layout="L R"/>
+      </OUTPUTS>
+    </LAYOUT>
+  </FILTER>
+  <CONNECTION srcFilter="2" srcChannel="4096" dstFilter="31" dstChannel="4096"/>
+  <CONNECTION srcFilter="29" srcChannel="0" dstFilter="30" dstChannel="0"/>
+  <CONNECTION srcFilter="29" srcChannel="1" dstFilter="30" dstChannel="1"/>
+  <CONNECTION srcFilter="30" srcChannel="0" dstFilter="3" dstChannel="0"/>
+  <CONNECTION srcFilter="30" srcChannel="1" dstFilter="3" dstChannel="1"/>
+  <CONNECTION srcFilter="31" srcChannel="4096" dstFilter="37" dstChannel="4096"/>
+  <CONNECTION srcFilter="37" srcChannel="4096" dstFilter="29" dstChannel="4096"/>
+  <CONNECTION srcFilter="37" srcChannel="4096" dstFilter="38" dstChannel="4096"/>
+</FILTERGRAPH>
